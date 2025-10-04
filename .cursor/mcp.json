@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "everything": {
+      "command": "npx @msfeldstein/mcp-test-servers ping",
+      "env": {
+        "MY_ENV_VAR": "My Special Token"
+      }
+    }
+  }
+}
